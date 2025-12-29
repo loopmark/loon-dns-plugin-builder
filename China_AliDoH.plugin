@@ -1,7 +1,7 @@
 #!name= China Domains -> Ali DoH
 #!desc= Auto-generated from blackmatrix7 list; force these domains to resolve via Ali DoH
 #!homepage= https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/China/China_Domain.list
-#!updated= 2025-12-28 04:56:47 UTC
+#!updated= 2025-12-29 05:02:39 UTC
 
 [Host]
 00cdn.com = server:https://dns.alidns.com/dns-query
